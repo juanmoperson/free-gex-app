@@ -1,8 +1,8 @@
-fastapi
-uvicorn
+dash
+plotly
 yfinance
 pandas
 numpy
 scipy
-plotly
 cachetools
+gunicorn
