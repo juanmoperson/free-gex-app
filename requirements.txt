@@ -1,6 +1,8 @@
-streamlit==1.41.1
-yfinance==0.2.50
-pandas==2.2.3
-numpy==2.1.3
-scipy==1.14.1
-plotly==5.24.1
+fastapi
+uvicorn
+yfinance
+pandas
+numpy
+scipy
+plotly
+cachetools
